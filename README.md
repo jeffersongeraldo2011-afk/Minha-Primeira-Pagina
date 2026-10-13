@@ -7,3 +7,12 @@ Programação Web.
 - HTML
 - Git
 - GitHub
+##Capturas de tela
+
+###Página 1 do navegador
+
+![Minha primeira página Web](pagina.png)
+
+###Utilização do Devtools
+
+![Inspeção do código HTML](devtools.png)
